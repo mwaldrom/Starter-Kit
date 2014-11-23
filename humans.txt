@@ -1,0 +1,26 @@
+/* TEAM */
+    Web designer: Michael Waldrom,
+	Contact: mwaldrom {at} gmail.com,
+	From: Palmerston North New Zealand,
+
+/* THANKS */
+    Name: name or url,
+
+/* SITE */
+    Last update: 
+    Doctype: HTML5,
+    Standards: HTML5, CSS3,
+    Components: jQuery, jqueryui, Bourbon, Neat, Bitters, Modernizr
+    Language: English,
+    Software: Adobe Dreamweaver, Brackets, FileZilla,
+  
+/* COMPONENTS / SOFTWARE SITES */
+    humanstxt.org , robotstxt.org, bourbon.io, neat.bourbon.io , bitters.bourbon.io, jquery.com,        jqueryui.com, modernizer.com,
+    Adobe.com, Brackets.io, filezilla-project.org,
+    
+/* STARTING BASE */
+    HTML5 Reset, github.com/murtaugh/HTML5-Reset,
+    Devtips Starter kit, https://github.com/DevTips/DevTips-Starter-Kit,
+    
+/* SITES USED */
+    iconifier.net, iconfinder.com, public-domain-image.com
